@@ -1,5 +1,27 @@
+*{
+    margin:  0;
+    padding: 0;
+}
+html{
+    font-size: 10;
+}
 body {
-    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: gray;
+    color: blueviolet;  
+}
+.encabezado{
+    background-image: url("../clase3/imagenes/images.jpg");
+    background-color: aliceblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 2rem;
+    height: 30vh;
+}
+.irabajo a{
+color:red;
+float:right;
 }
 p{
     color:aqua;
@@ -34,4 +56,24 @@ p{
 }
 .h4{
     color:greenyellow
+}
+.Menu{
+    list-style: none;
+    text-align: center;
+}
+.Menu li{
+display:inline-block;
+}
+.Menu a{
+    text-decoration: none;
+    color:black;
+    font-size:1.4 rem;
+    font-weight:900;
+    font-style: oblique;
+    padding: 2rem;
+
+}
+
+.texto{
+    font-family: "Sedan", serif;
 }
