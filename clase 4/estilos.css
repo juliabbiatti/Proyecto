@@ -1,0 +1,16 @@
+.box_model{
+background-color: aqua;
+width: 250px;
+height: auto;
+padding-top: 10px;
+padding-left: 12px;
+padding-bottom: 40px;
+padding-right: 20px;
+margin: 20px 10px 40px 25px; /*en el sentido agujas del reloj*/;
+overflow: auto;
+border-top: dashed 5px grey;
+border-right: solid 7px red;
+border-bottom: dashed 8px blue;
+border-left: solid 5px rgb(250, 54, 178);
+
+}
