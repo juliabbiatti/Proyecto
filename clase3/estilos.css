@@ -1,0 +1,37 @@
+body {
+    color: blueviolet;
+}
+p{
+    color:aqua;
+}
+.rojo{
+    color: red;
+}
+.lista{
+    color:black;
+}
+.lista2{
+    color:aquamarine
+}
+.lista3{
+    color:rgb(255, 0, 208)
+
+}
+
+    .titulo{
+        color:red
+}
+
+#verde{
+    color: green;
+}
+
+#pie{
+    color:gray;
+}
+.reinoanimal{
+    color:blue
+}
+.h4{
+    color:greenyellow
+}
